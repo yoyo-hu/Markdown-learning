@@ -12,7 +12,7 @@
 
 
 
-```rust
+```mermaid
 graph LR
 A[方形] -->B(圆角)
     B --> C{条件a}
@@ -50,7 +50,7 @@ A[方形] -->B(圆角)
 
 
 
-```php
+```flow
 st=>start: 开始框
 op=>operation: 处理框
 cond=>condition: 判断框(是或否?)
@@ -189,8 +189,3 @@ Note right of C: 没人陪我玩
 
 
 ![img](https:////upload-images.jianshu.io/upload_images/15296782-ca096c7a57a3314d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
-
-
-
-
-
